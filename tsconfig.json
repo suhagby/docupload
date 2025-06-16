@@ -13,7 +13,7 @@
     "moduleResolution": "node",
     "paths": {
       "@ui/*": ["packages/ui/*"],
-      "@db/*": ["packages/db/*"],
+      "db/*": ["packages/db/*"],
       "@/*": ["apps/web/*"]
     }
   },
