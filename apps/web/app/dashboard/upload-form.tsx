@@ -1,6 +1,6 @@
 'use client'
 import { useState } from 'react'
-import { Button } from '@ui/index'
+import { Button } from 'ui/index'
 
 export default function UploadForm() {
   const [file, setFile] = useState<File | null>(null)

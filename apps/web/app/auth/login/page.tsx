@@ -1,6 +1,6 @@
 'use client'
 import { signIn } from 'next-auth/react'
-import { Button } from '@ui/index'
+import { Button } from 'ui/index'
 
 export default function Login() {
   return (

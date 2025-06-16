@@ -12,8 +12,8 @@
     "jsx": "preserve",
     "moduleResolution": "node",
     "paths": {
-      "@ui/*": ["packages/ui/*"],
-      "@db/*": ["packages/db/*"],
+      "ui/*": ["packages/ui/*"],
+      "db/*": ["packages/db/*"],
       "@/*": ["apps/web/*"]
     }
   },
